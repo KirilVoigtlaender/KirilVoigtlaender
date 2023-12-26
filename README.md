@@ -2,7 +2,7 @@
 #### About me
 
 - 🔭 I’m currently in my second year of my BSc in Computing Science.
-- 🌱 I’m currently learning Functional Programming and Software Engeneering using a RaspberryPi 4
+- 🌱 I’m currently learning Functional Programming in the course FP and Software Engeneering using a RaspberryPi 4
 - 📫 How to reach me: send me an email to kiril.voigtlaender@ru.nl
 
 #### Tech Stack
