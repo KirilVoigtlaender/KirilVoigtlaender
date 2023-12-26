@@ -1,16 +1,14 @@
 ### Hi there 👋
+#### About me
 
-<!--
-**Kirilvoigtlaender/Kirilvoigtlaender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently in my second year of my BSc in Computing Science.
+- 🌱 I’m currently learning Functional Programming and Software Engeneering using a RaspberryPi 4
+- 📫 How to reach me: send me an email to kiril.voigtlaender@ru.nl
 
-Here are some ideas to get you started:
+#### Tech Stack
+* Python, C++, Java, Haskell
+* HTML, CSS
 
-- 🔭 I'm currently in my second year of my BSc in Computing Science
-- 🌱 I’m currently learning Haskell for FP
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: send a mail to kiril.voigtlaender@ru.nl
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Socials
+<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/kiril-voigtl%C3%A4nder-04217829a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
