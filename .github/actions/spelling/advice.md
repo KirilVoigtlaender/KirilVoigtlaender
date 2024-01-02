@@ -1,5 +1,5 @@
 <!-- See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples%3A-advice --> <!-- markdownlint-disable MD033 MD041 -->
-<details><summary>If the flagged items are false positives</summary>
+<details><summary>If the flagged items are :exploding_head: false positives</summary>
 
 If items relate to a ...
 * binary file (or some other file you wouldn't want to check at all).
@@ -9,8 +9,7 @@ If items relate to a ...
   File paths are Perl 5 Regular Expressions - you can [test](
 https://www.regexplanet.com/advanced/perl/) yours before committing to verify it will match your files.
 
-  `^` refers to the file's path from the root of the repository, so `^README\.md$` would exclude [README.md](
-../tree/HEAD/README.md) (on whichever branch you're using).
+  `^` refers to the file's path from the root of the repository, so `^README\.md$` would exclude README.md (on whichever branch you're using).
 
 * well-formed pattern.
 
