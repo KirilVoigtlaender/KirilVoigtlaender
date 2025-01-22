@@ -2,7 +2,7 @@
 ## About me
 
 - 🔭 I’m currently in my third year of my BSc in Computing Science.
-- 🌱 I’m currently learning Functional Programming in the course FP and Software Engineering using a RaspberryPi 4
+- 🌱 I’m currently learning Functional Programming in the course FP and Bayesian Networks
 
 ## Tech Stack
 * Python, C++, Java, Haskell
