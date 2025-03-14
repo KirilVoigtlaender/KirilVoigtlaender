@@ -1,2 +1,10 @@
 kiril
 linkedin
+editorconfig
+github
+img
+nofollow
+noopener
+noreferrer
+workflows
+yml
