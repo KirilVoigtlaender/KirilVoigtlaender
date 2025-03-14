@@ -2,7 +2,7 @@
 ## About me
 
 - 🔭 I’m currently in my third year of my BSc in Computing Science.
-- 🌱 I’m currently learning Functional Programming in the course FP and Bayesian Networks
+- 🌱 I’m currently learning Functional Programming in the course FP and Software Engineering as part of the organization GipHouse a student ran company at Uni. There I'm working on a SAAS application for Klick Genius.
 
 ## Tech Stack
 * Python, C++, Java, Haskell
