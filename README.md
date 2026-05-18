@@ -1,11 +1,12 @@
 # Hi there 👋
 ## About me
 
-- 🔭 I’m currently in my third year of my BSc in Computing Science.
-- 🌱 I’m currently learning Functional Programming in the course FP and Software Engineering as part of the organization GipHouse a student ran company at Uni. There I'm working on a SaaS application for Klick Genius.
+- 🔭 I’m currently in my fourth year of my BSc in Computing Science.
+- 🧑‍💻 I have experience working as a Software Engineer at theRightDirection.
+- 🌱 I’m currently starting to work on my Bachelor Thesis.
 
 ## Tech Stack
-* Python, C++, Java, Haskell
+* Python, C++, Java, Haskell, JavaScript, TypeScript
 * HTML, CSS
 
 ## Socials
